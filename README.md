@@ -1,12 +1,11 @@
 # Final Project
 
-Lihang Gong,\
-Di Gu
+Lihang Gong, lgong@ucsd.edu\
+Di Gu, dgu@ucsd.edu
 
 ## Abstract Proposal
 
-We want to continue on our project four concept. 
-We hope to get a webcam capturing the people in front of it; it will then take a picture of the person/ group and use object detection for the essential features (body, eyes, beard,  mouth, etc.) and have it color/ mask the picture. Then, the image will go through some style transform to yield the final result. 
+There are countless black&white manga available. However, few of them are colorized as it spends much additional time for comic book creators to paint from the black&white version. What if we have an auto painter that convert b&w manga into colorized ones? In project 4, a manga colorization solution was developed based on pix2pix model. It was able to colorize b&w manga pages based on some colorized samples. For final project, we will try to correct some inaccurate results and make them more natural.
 
 ## Project Report
 
